@@ -18,3 +18,11 @@ Afterwards enter the following command to build and install dmenu
 
     make clean install
 
+
+Patches
+-------
+- Password
+- Reject No Match
+- Border
+- Grid
+- Center
